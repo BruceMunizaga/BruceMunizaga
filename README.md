@@ -15,6 +15,4 @@ Soy un estudiante de Ingeniería en Computación e Informática, apasionado por 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 ## Estadísticas
-![Bruce Munizaga GitHub stats](https://github-readme-stats.vercel.app/api?username=brucemunizaga&show_icons=true&theme=dark)
-
 ![Lenguajes mas usados](https://github-readme-stats.vercel.app/api/top-langs/?username=BruceMunizaga&layout=compact&theme=dark)
