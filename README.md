@@ -4,7 +4,7 @@
 
 ### Estudiante de Ingeniería en Computación e Informática | Desarrollador Full Stack junior | Innovador Tecnológico
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=500&color=00D9FF&center=true&vCenter=true&random=false&width=600&duration=2000&lines=Transformando+Ideas+en+Código;Construyendo+el+Futuro+Digital;Apasionado+por+la+Innovación" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=500&color=00D9FF&center=true&vCenter=true&random=false&width=600&duration=2000&lines=Transformando+Ideas+en+Código;Desarrollador+Full+Stack;Problem+Solver+%7C+Creative+Thinker" alt="Typing Animation">
 
 </div>
 
@@ -15,7 +15,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/bruce-munizaga)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKHQcpfjbTptsCZTxMLVjdjxsZmtfBlWssCXHZQbxwPKrmddDrSvrQwxHNptBqjCtBZCGFg)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKHQcpfjbTptsCZTxMLVjdjxslZFVMLfWJgvlKJvkwbgRsKPKdwJqSCzNSRBvjBlvczrHFL)
 
 </div>
 
@@ -85,9 +85,6 @@ const BruceMunizaga = {
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 
 </div>
 
@@ -97,7 +94,7 @@ const BruceMunizaga = {
 
 <div align="center">
   
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BruceMunizaga&custom_title=Bruce%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BruceMunizaga&custom_title=Bruce%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&hide_border=true" alt="Contribution Graph">
 
 </div>
 
