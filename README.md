@@ -28,16 +28,11 @@ const BruceMunizaga = {
     rol: "Estudiante de Ingeniería en Computación e Informática",
     pasión: "Creación de Software Innovador",
     misión: "Transformar ideas en productos tangibles que mejoren vidas",
-    enfoque: ["Desarrollo Full Stack Junior", "Soluciones Cloud", "Desarrollo Móvil", "Front-end", "Back-End"],
+    enfoque: ["Desarrollo Full Stack Junior", "Soluciones Cloud", "Front-end", "Back-End"],
     aprendizaje: "Constante y autodidacta",
     mentalidad: "Problem Solver | Creative Thinker"
 };
 ```
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BruceMunizaga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BruceMunizaga&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" height="170"/>
-</div>
 
 ---
 
@@ -63,22 +58,27 @@ const BruceMunizaga = {
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-### Bases de Datos SQL
+### Bases de Datos
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**SQL**
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Bases de Datos NoSQL
+</td>
+<td align="center" width="50%">
+
+**NoSQL**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-</div>
-
----
-
-## Entorno de Desarrollo | Development Environment
-
-<div align="center">
+</td>
+</tr>
+</table>
 
 ### IDEs & Editores
 
