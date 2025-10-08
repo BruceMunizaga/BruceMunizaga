@@ -4,7 +4,7 @@
 
 ### Estudiante de Ingeniería en Computación e Informática | Desarrollador Full Stack junior | Innovador Tecnológico
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=500&color=00D9FF&center=true&vCenter=true&random=false&width=600&duration=2000&lines=Transformando+Ideas+en+Código;Desarrollador+Full+Stack;Problem+Solver+%7C+Creative+Thinker" alt="Typing Animation">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=500&color=00D9FF&center=true&vCenter=true&random=false&width=600&duration=2000&lines=Transformando+Ideas+en+Código;Desarrollador+Full+Stack+Junior;Solucionador+De+Problemas+Uso+De+Tecnologías+Innovadoras" alt="Typing Animation">
 
 </div>
 
