@@ -1,10 +1,10 @@
 <div align="center">
-  
+
 # Bruce Munizaga
 
 ### Estudiante de Ingeniería en Computación e Informática | Desarrollador Full Stack junior | Innovador Tecnológico
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=500&color=00D9FF&center=true&vCenter=true&random=false&width=600&duration=2000&lines=Transformando+Ideas+en+Código;Desarrollador+Full+Stack+Junior;Solucionador+De+Problemas;Uso+De+Tecnologías+Innovadoras" alt="Typing Animation">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=500&color=00D9FF&center=true&vCenter=true&random=false&width=600&duration=2000&lines=Transformando+Ideas+en+Código;Full+Stack+Developer;Innovación+%2B+Tecnología" alt="Typing SVG" />
 
 </div>
 
@@ -15,7 +15,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/bruce-munizaga)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKHQcpfjbTptsCZTxMLVjdjxslZFVMLfWJgvlKJvkwbgRsKPKdwJqSCzNSRBvjBlvczrHFL)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKHQcpfjbTptsCZTxMLVjdjxstChpJmJbSQzhvgKCxKpnSHsqwqZpxlVXjQkbSSjTkhfRsL)
 
 </div>
 
@@ -47,7 +47,6 @@ const BruceMunizaga = {
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Backend
 
@@ -84,27 +83,6 @@ const BruceMunizaga = {
 
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-
-</div>
-
----
-
-## Actividad en GitHub | GitHub Activity
-
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BruceMunizaga&custom_title=Bruce%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&hide_border=true" alt="Contribution Graph">
-
-</div>
-
----
-
-## Logros | Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BruceMunizaga&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
@@ -114,7 +92,7 @@ const BruceMunizaga = {
 
 <div align="center">
 
-> *"El código limpio no se escribe siguiendo un conjunto de reglas. No te conviertes en un artesano de software al aprender una lista de heurísticas. El profesionalismo y la artesanía provienen de valores que impulsan disciplinas."*
+> *"El código limpio no se escribe siguiendo un conjunto de reglas. No te conviertes en un artesano de software al aprender una lista de heurísticas. El profesionalismo y la artesanía provienen de los valores y la disciplina."*
 > 
 > **— Robert C. Martin**
 
